@@ -31,4 +31,4 @@ public:
 
         return Solve(s, 0);
     }
-};s
+};
